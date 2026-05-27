@@ -20,7 +20,6 @@ for the people who think out loud, and the small teams that meet a lot.**
 <br />
 
 ![Latest release](https://img.shields.io/github/v/release/Pentaeon/Unwarp_Releases?label=latest&color=D97757)
-![Downloads](https://img.shields.io/github/downloads/Pentaeon/Unwarp_Releases/total?color=1a1814)
 ![© Pentaeon](https://img.shields.io/badge/©-Pentaeon%202026-1a1814)
 
 </div>
