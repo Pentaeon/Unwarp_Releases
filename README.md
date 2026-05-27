@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pentaeon/Unwarp/main/apps/web/public/icon_rounded_square.svg" alt="Unwarp" width="120" height="120" />
+<img src="./assets/icon.svg" alt="Unwarp" width="120" height="120" />
 
 # Unwarp
 
@@ -21,7 +21,7 @@ for the people who think out loud, and the small teams that meet a lot.**
 
 ![Latest release](https://img.shields.io/github/v/release/Pentaeon/Unwarp_Releases?label=latest&color=D97757)
 ![Downloads](https://img.shields.io/github/downloads/Pentaeon/Unwarp_Releases/total?color=1a1814)
-![License](https://img.shields.io/badge/source-MIT-1a1814)
+![© Pentaeon](https://img.shields.io/badge/©-Pentaeon%202026-1a1814)
 
 </div>
 
@@ -150,7 +150,7 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 | 📥 **Downloads** | [github.com/Pentaeon/Unwarp_Releases/releases](https://github.com/Pentaeon/Unwarp_Releases/releases) |
 | 💻 **Source code** | [github.com/Pentaeon/Unwarp](https://github.com/Pentaeon/Unwarp) |
 | 📧 **Support** | [support@pentaeon.dev](mailto:support@pentaeon.dev) |
-| 🏢 **Built by** | [Pentaeon](https://pentaeon.dev) — independent software studio, Paris |
+| 🏢 **Built by** | [Pentaeon](https://pentaeon.dev) — independent software studio, Montpellier |
 
 ---
 
@@ -166,6 +166,6 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 
 <br />
 
-<sub>Made with care by <a href="https://pentaeon.dev">Pentaeon</a> · Paris · 2026</sub>
+<sub>Made with care by <a href="https://pentaeon.dev">Pentaeon</a> · Montpellier · 2026</sub>
 
 </div>
