@@ -2,7 +2,7 @@
 
 <img src=".//assets/icon_rounded_square.png" alt="unWarp" width="120" height="120" />
 
-# uWarp
+# unWarp
 
 ### Talk. unWarp remembers.
 
