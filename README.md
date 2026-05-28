@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/icon.svg" alt="unWarp" width="120" height="120" />
+<img src=".//assets/icon_rounded_square.png" alt="unWarp" width="120" height="120" />
 
 # uWarp
 
