@@ -1,45 +1,45 @@
 <div align="center">
 
-<img src="./assets/icon.svg" alt="Unwarp" width="120" height="120" />
+<img src="./assets/icon.svg" alt="unWarp" width="120" height="120" />
 
-# Unwarp
+# uWarp
 
-### Talk. Unwarp remembers.
+### Talk. unWarp remembers.
 
 **Voice notes that organise themselves —
 for the people who think out loud, and the small teams that meet a lot.**
 
 <br />
 
-[![Try Unwarp](https://img.shields.io/badge/Try%20Unwarp%20on%20the%20web-unwarp.app-1a1814?style=for-the-badge&labelColor=1a1814&color=D97757)](https://unwarp.app)
+[![Try unWarp](https://img.shields.io/badge/Try%20unWarp%20on%20the%20web-unwarp.app-1a1814?style=for-the-badge&labelColor=1a1814&color=D97757)](https://unwarp.app)
 
 <br />
 
-[**🌐 Web app**](https://unwarp.app) · [**📥 Downloads**](#-download-the-app) · [**✨ Features**](#-what-you-get) · [**💰 Pricing**](#-pricing) · [**💻 Source code**](https://github.com/Pentaeon/Unwarp)
+[**🌐 Web app**](https://unwarp.app) · [**📥 Downloads**](#-download-the-app) · [**✨ Features**](#-what-you-get) · [**💰 Pricing**](#-pricing) · [**💻 Source code**](https://github.com/Pentaeon/unWarp)
 
 <br />
 
-![Latest release](https://img.shields.io/github/v/release/Pentaeon/Unwarp_Releases?label=latest&color=D97757)
+![Latest release](https://img.shields.io/github/v/release/Pentaeon/unWarp_Releases?label=latest&color=D97757)
 ![© Pentaeon](https://img.shields.io/badge/©-Pentaeon%202026-1a1814)
 
 </div>
 
 ---
 
-## What is Unwarp?
+## What is unWarp?
 
-Unwarp is a voice-first capture tool that turns scattered, spoken-out-loud thinking into a place that organises itself.
+unWarp is a voice-first capture tool that turns scattered, spoken-out-loud thinking into a place that organises itself.
 
-**Tap once. Talk. Stop.** Unwarp writes it down cleanly, names it, tags it, pulls out the to-dos, drops dated things on a calendar, and makes everything you've ever said searchable — by exact phrase or by *vibe*.
+**Tap once. Talk. Stop.** unWarp writes it down cleanly, names it, tags it, pulls out the to-dos, drops dated things on a calendar, and makes everything you've ever said searchable — by exact phrase or by *vibe*.
 
 > 🗂️ **This repository hosts the public release binaries.**
-> For the source code, issue tracker, and to contribute, head to **[github.com/Pentaeon/Unwarp](https://github.com/Pentaeon/Unwarp)**.
+> For the source code, issue tracker, and to contribute, head to **[github.com/Pentaeon/unWarp](https://github.com/Pentaeon/unWarp)**.
 
 ---
 
 ## 🌐 Just use the web
 
-The fastest way to try Unwarp is in your browser. No install, no account hoops, 14-day trial, no card.
+The fastest way to try unWarp is in your browser. No install, no account hoops, 14-day trial, no card.
 
 <div align="center">
 
@@ -59,9 +59,9 @@ Native shells exist because **meeting recording needs OS-level audio capture** (
 
 | Platform | Download | Notes |
 |:---|:---:|:---|
-| 🪟 **Windows** | [**Get the installer**](https://github.com/Pentaeon/Unwarp_Releases/releases/latest) | Windows 10 / 11 · x64 NSIS installer |
-| 🐧 **Linux** | [**Get the AppImage**](https://github.com/Pentaeon/Unwarp_Releases/releases/latest) | Any modern distro · `chmod +x` and run |
-| 🤖 **Android** | [**Get the APK**](https://github.com/Pentaeon/Unwarp_Releases/releases/latest) | Android 8.0+ · Play Store listing in submission |
+| 🪟 **Windows** | [**Get the installer**](https://github.com/Pentaeon/unWarp_Releases/releases/latest) | Windows 10 / 11 · x64 NSIS installer |
+| 🐧 **Linux** | [**Get the AppImage**](https://github.com/Pentaeon/unWarp_Releases/releases/latest) | Any modern distro · `chmod +x` and run |
+| 🤖 **Android** | [**Get the APK**](https://github.com/Pentaeon/unWarp_Releases/releases/latest) | Android 8.0+ · Play Store listing in submission |
 | 🍎 **iPhone / Mac** | [**Use the web app**](https://unwarp.app) | Add to Home Screen from Safari — full PWA experience |
 | 🌐 **Anywhere else** | [**unwarp.app**](https://unwarp.app) | Works on every modern browser |
 
@@ -69,7 +69,7 @@ Native shells exist because **meeting recording needs OS-level audio capture** (
 
 > First time on Windows? SmartScreen may warn — click *More info → Run anyway*. Reputation builds with downloads.
 
-[**→ Browse all releases**](https://github.com/Pentaeon/Unwarp_Releases/releases)
+[**→ Browse all releases**](https://github.com/Pentaeon/unWarp_Releases/releases)
 
 ---
 
@@ -97,9 +97,9 @@ Tap  →  Talk  →  We do the rest.
 - 🗓️ **Dated things hit the calendar** — birthdays, meetings, reminders, follow-ups; extracted on capture.
 - 🔍 **Search by phrase or by vibe** — keyword + semantic search over every note you've ever made.
 - 🔊 **Listen back** — TTS reads any note out loud, in the voice you choose.
-- 📚 **Long-term memory** — Unwarp folds recurring facts into a persistent "about you" so it gets to know you over time.
+- 📚 **Long-term memory** — unWarp folds recurring facts into a persistent "about you" so it gets to know you over time.
 - 👥 **Workspaces** — share notes with a small team. Everyone's names spelled right, one shared search, one bill.
-- 🗣️ **Personal pronunciation dictionary** — train Unwarp on your jargon, names, and acronyms once; every recording after spells them right.
+- 🗣️ **Personal pronunciation dictionary** — train unWarp on your jargon, names, and acronyms once; every recording after spells them right.
 - 📦 **Your data, exportable** — full Markdown export, no lock-in, anytime.
 - 🤖 **AI connectors via MCP** — Claude, ChatGPT, Cursor and any MCP-capable host can read, search, and edit your notes on your behalf.
 
@@ -111,7 +111,7 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 
 <div align="center">
 
-| | **Unwarp Personal** | **Unwarp Team** |
+| | **unWarp Personal** | **unWarp Team** |
 |---|:---:|:---:|
 | **Price** | £10/month | £8/seat/month |
 | **For** | Solo thinkers, founders, freelancers | 4–5 person studios, consultancies, co-founders |
@@ -124,9 +124,9 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 
 ---
 
-## 👤 Who is Unwarp for?
+## 👤 Who is unWarp for?
 
-**The disorganised individual** — ADHD founders, indie consultants, students, freelancers; anyone whose ideas show up at the wrong moment and whose Voice Memos folder is a graveyard. Unwarp's job is to make that habit *actually pay off*.
+**The disorganised individual** — ADHD founders, indie consultants, students, freelancers; anyone whose ideas show up at the wrong moment and whose Voice Memos folder is a graveyard. unWarp's job is to make that habit *actually pay off*.
 
 **The four-to-five-person team that meets a lot** — small consultancies, two-co-founder startups, design studios. The Team plan gives them a shared workspace, shared dictionary, shared search, one bill — at a price one of them will actually expense.
 
@@ -146,8 +146,8 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 | | |
 |---|---|
 | 🌐 **Website** | [unwarp.app](https://unwarp.app) |
-| 📥 **Downloads** | [github.com/Pentaeon/Unwarp_Releases/releases](https://github.com/Pentaeon/Unwarp_Releases/releases) |
-| 💻 **Source code** | [github.com/Pentaeon/Unwarp](https://github.com/Pentaeon/Unwarp) |
+| 📥 **Downloads** | [github.com/Pentaeon/unWarp_Releases/releases](https://github.com/Pentaeon/unWarp_Releases/releases) |
+| 💻 **Source code** | [github.com/Pentaeon/unWarp](https://github.com/Pentaeon/unWarp) |
 | 📧 **Support** | [support@pentaeon.dev](mailto:support@pentaeon.dev) |
 | 🏢 **Built by** | [Pentaeon](https://pentaeon.dev) — independent software studio, Montpellier |
 
@@ -161,7 +161,7 @@ Priced for **humans**, not procurement. **14-day trial, no card required.**
 
 <br />
 
-[![Open Unwarp](https://img.shields.io/badge/Open%20Unwarp%20→-unwarp.app-1a1814?style=for-the-badge&labelColor=D97757&color=D97757)](https://unwarp.app)
+[![Open unWarp](https://img.shields.io/badge/Open%20unWarp%20→-unwarp.app-1a1814?style=for-the-badge&labelColor=D97757&color=D97757)](https://unwarp.app)
 
 <br />
 
